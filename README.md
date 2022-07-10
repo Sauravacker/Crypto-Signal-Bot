@@ -1,5 +1,3 @@
-# CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 2,100 + stars, 580 + forks https://github.com/CryptoSignal/Crypto-Signal
-
 ### Development state: Beta (Code is stable, documentation is often lagging)
 
 ### Join our community [Discord](https://discord.gg/MWTJVFf) channel! (2,100+ members)
